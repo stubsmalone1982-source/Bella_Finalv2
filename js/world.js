@@ -800,6 +800,4 @@ function handleFinalChoice(choice) {
 
   }
 
-}
-
-startActThreeTransition();
+} Everything you gave and nothing you would take on
