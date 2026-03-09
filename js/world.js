@@ -44,8 +44,8 @@ damask.src = "../assets/damask.png";
 const watermark = new Image();
 watermark.src = "../assets/pentagram.png";
 
-const giggle = new Audio("assets/giggle.wav");
-const benVoice = new Audio("assets/Ben.wav");
+const giggle = new Audio("../assets/giggle.wav");
+const benVoice = new Audio("../assets/Ben.wav");
 
 giggle.volume = 0.45;
 benVoice.volume = 0.65;
